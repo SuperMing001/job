@@ -1,0 +1,38 @@
+
+### project ###
+/log/
+/build/
+.log
+
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+hu/hu-service/target/
+tbox/tbox-service/target/
+tbox-gateway/tbox-gateway-service/target/
+aiways-cpsp/aiways-cpsp-service/target
+
+### SYSTEM ###
+.DS_Store
