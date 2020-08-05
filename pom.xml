@@ -11,6 +11,7 @@
     <module>job-01-spring-task</module>
     <module>job-02-task-quartz-memory</module>
     <module>job-03-task-quartz-jdbc</module>
+    <module>job-04-task-xxl-job</module>
   </modules>
   <packaging>pom</packaging>
 
