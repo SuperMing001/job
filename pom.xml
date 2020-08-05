@@ -9,6 +9,7 @@
   <version>1.0-SNAPSHOT</version>
   <modules>
     <module>job-01-spring-task</module>
+    <module>job-02-task-quartz-memory</module>
   </modules>
   <packaging>pom</packaging>
 
